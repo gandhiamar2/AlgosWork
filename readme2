@@ -1,0 +1,16 @@
+Project 2: Shortest Paths in a Network
+
+These programs can be found in following paths:
+Graph - Dir\algos\project2\Graph.java
+Vertex/Edge - Dir\algos\project2\ Vertex_Edges.java
+Input files:
+Network and Query files are located in Dir\algos\project2\ 
+Execution:
+Compling- 
+	cd Dir\algos\project2
+	javac Graph.java
+Execution-
+       java Graph network.txt < queries.txt > output.txt
+ 
+ 
+
